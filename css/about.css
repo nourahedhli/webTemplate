@@ -1,0 +1,55 @@
+
+h2 {
+  color: tomato;
+  font-family: Verdana;
+
+
+
+}
+
+.nav-item  {
+
+}
+
+.dropdown-menu {
+
+  background-color: #343a40;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.nav-link {color: white}
+
+
+.About_pic {
+  float: left;
+  padding-left: 90px;
+  padding-right: 40px;
+
+}
+
+.content1 {
+
+  text-align: left;
+  padding-right: 90px;
+
+
+}
+
+.About_pic1 {
+  float: right;
+  padding-left: 40px;
+  padding-right: 90px;
+
+}
+
+.content11 {
+  margin-top: 130px;
+  text-align: left;
+
+  padding-left: 90px;
+
+
+}

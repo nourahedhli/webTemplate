@@ -4,16 +4,13 @@ h2 {
 }
 
 
-.card-title {
+.card-title , .card-text {
 
 
   text-align: center;
 }
 
-.card-title1 {
-  margin-left: 20px;
 
-}
 
 .right-card {
   margin-left: 19px;

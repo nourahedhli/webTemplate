@@ -8,6 +8,18 @@ body, html {
   height: 100%;
 }
 
+.dropdown-menu {
+
+  background-color: #343a40;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.nav-link {color: white}
+
+
 
 
 

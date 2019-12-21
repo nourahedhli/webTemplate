@@ -3,6 +3,18 @@ h2 {
 
 }
 
+.dropdown-menu {
+
+  background-color: #343a40;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.nav-link {color: white}
+
+
 
 
 .card-title , .card-text {
